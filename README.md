@@ -1,11 +1,11 @@
-# adityajoshi
+# aditya joshi
 
 ### Hi there 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aditjosh)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditjosh/)
 
-Welcome to my Github page! I currently at the University of Notre Dame. 
+Welcome to my Github page! I am currently at the University of Notre Dame. 
 
 
 #### ☁️ Things I am currently working on: 
