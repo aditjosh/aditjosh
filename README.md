@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I currently at the University of Notre Dame. 
 
-<img align="right" alt="img" src="https://github.com/aditjosh/aditjosh/blob/owl.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/aditjosh/aditjosh/blob/main/blob/owl.png" width="20%" height="auto" />
 
 
 #### ☁️ Things I am currently working on: 
