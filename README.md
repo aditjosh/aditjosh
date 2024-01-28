@@ -14,6 +14,7 @@ Welcome to my Github page! I am currently at the University of Notre Dame.
 #### 🗻: Things I am challenging myself with:
 - Writing
 - Exercising
+- Chaos, anarchy, disorder, entropy, nonconformism.
 
 #### :computer: Programming languages: 
 <p>
